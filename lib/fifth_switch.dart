@@ -66,7 +66,7 @@ class _FifthSwitchState extends State<FifthSwitch> {
                   shape: BoxShape.circle,
                   boxShadow: [
                     BoxShadow(
-                      color: Colors.grey,
+                      color: Colors.black26,
                       offset: Offset(0, 8),
                       blurRadius: 12,
                     ),
