@@ -1,7 +1,7 @@
 # Flutter - Switch Buttons
 ### Click on creenshot to watch Youtube video
 
-[![IMAGE ALT TEXT HERE](switch_btns.jpg with="22px")](https://youtu.be/hBZsEiU3C50)
+[![IMAGE ALT TEXT HERE](switch_btns.jpg)](https://youtu.be/hBZsEiU3C50)
 
 ## Getting Started
 
